@@ -24,7 +24,7 @@ body, html {
   }
   
   #logo {
-    width: 80vw; /* 50% of the viewport width */
+    width: 15vw; /* 15% of the viewport width */
     max-width: 600px; /* Set a max width */
     min-width: 200px; /* Set a min width */
     animation: fadePixelatedIn 4s ease forwards; /* Apply the fadePixelatedIn animation over 5 seconds */
