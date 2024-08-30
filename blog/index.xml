@@ -6,6 +6,7 @@
     <description>Recent content on DEVKOM Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>© DEVKOM AS</copyright>
     <atom:link href="https://devkom.no/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
